@@ -15,8 +15,9 @@ body{
 
 }
 
-h2,.white{
+h3,.white{
     color: #fff;
+    font-family: 'Courier New', monospace;
 }
 
 a{
